@@ -678,6 +678,7 @@
 3, B2cin3aiqr4aeqw5ajnq6c7/S02acn3ackr4-aqwy5acknr6an78, 3, 3, 59, 2bo2$obo!
 3, B2cen3kn4nwy5aekn6i/S01c2k3ejk4crtw5acij6-ck8, 2, 2, 59, 2bo2$obo!
 3, B2ekn3-kqy4-erw5aijnr/S03ejry4cny5ejny6e, 1, 1, 59, 3bo2$2bo$o!
+5, B2acn3cey4q5cjkr6ac/S12-ei3cey4n5aj, 30, 30, 60, bo$2bo2$b2o$o!
 6, B2-a3aeq4-cewyz5ackqr6n8/S02cen3cejnq4ackntwy5kn6ae, 20, 20, 60, 2bo$bobo$o$bobo!
 6, B2-a3aeqy4aijkqry5ackqr6n8/S02-ak3cjnqr4acktwyz5knqy6ae, 19, 19, 60, 2bo$bobo$o$bobo!
 6, B2-an3aeq4anq5-ejry6an8/S02cen3cejnr4ajkwyz5ekn6ace8, 18, 18, 60, 2bo$bobo$o$bobo!
@@ -718,6 +719,7 @@
 3, B2ein3-cj4ijqryz5kny6c/S03q5q, 3, 3, 61, 2bo2$o2$4bo!
 3, B2ein3-anry4acejrwz5aiknq6n7c8/S02a3ceijk4einqy5-cejk6-ek8, 2, 2, 61, 2bo2$o$3bo!
 3, B2-ak3knqry4-ikqry5cikq6cen7c8/S01c2ei3-cejr4entw5eknry6-c78, 1, 1, 61, o2$2bo3$5bo!
+4, B2acn3cey4ein5cjknr7c/S12-ei3cy4iknqtyz5aj7e, 31, 31, 62, 2bo2$b2o$o!
 4, B2ac3enqry4k/S01e2i3eky4nt5cen6ci, 21, 21, 62, o$bo$bo$bo!
 6, B2-a3aeq4aiqrt5acjkq6-ei8/S02-ak3-aiky4akntwy5knqy6ae7e8, 20, 20, 62, 2bo$bobo$o$bobo!
 8, B2cin3-ijkr4-akt5ac6c7e/S2cin3-airy4-aewz5acry6ce, 19, 19, 62, 2bobo$o2bo$2bobo$bobo!
@@ -1077,6 +1079,7 @@
 3, B2-ak3-cikn4-ajkwy5jnry7c/S01c2i3jqy4ackrtyz5r6aen, 3, 3, 77, 2bo2$obo!
 3, B2ekn3-jr4-kn5-cij6ack7/S03qy4acnt5kq6k, 2, 2, 77, 2bo2$o2$4bo!
 3, B2cek3iknqy4-aejq5aeikr6ack7e/S02kn3ijq4cry5ceiry7c, 1, 1, 77, 2bo$o2$o!
+4, B2acn3cey4enqt5cjkr6n/S12-ei3cy4ikny5aen6n, 39, 39, 78, 2bo2$b2o$o!
 7, B2cn3aeknr4jr5aijq/S01c2-ci3iqr4iqw5aij6a, 26, 26, 78, o3bo$4b2o$3b2o$3bo!
 7, B2ce3-aijy4-acirw5cknq6eik78/S3ceinr4-aiw5aekq6ae7c8, 25, 25, 78, 2bo$bo2bo$o2bo$2bo$bo!
 7, B2cin3acenq4-aknqt5acry7e/S2cin3-aiy4-aewyz5a6ck, 24, 24, 78, bobo$2bo$bobo$obo!
@@ -1467,6 +1470,7 @@
 3, B2k3-ejnq4ciknqt5-akq6cei7c/S01e2ae3-aeq4iktyz5-cek6ce7c, 3, 3, 93, obo$o!
 3, B2-ae3aekry4ceijkwy5aey6-ei7e/S01e2-ik3-akry4-ay5-eknr67e, 2, 2, 93, 2bo2$obo!
 3, B2in3-eknr4eijkntw5-ckry6akn7e8/S02-e3ejnr4cjqrtwz5jkq6-ai7, 1, 1, 93, 2bo2$obo!
+4, B2acn3cey4ent5cjkr/S12-ei3cy4iknqwy5aejn6n, 47, 47, 94, 3bo$2bo$obo!
 7, B2ce3-aijy4-acirw5cknq6ek7c8/S3ciknr4-iw5aekq6-kn7c8, 31, 31, 94, 2bo2$obo2bo$4bo$3bo$2bo!
 7, B2cin3acenq4-ait5ace6ack7/S2cn3-air4-aewyz5ac6c, 28, 28, 94, bobo$2bo$bobo$obo!
 7, B2ce3-aijy4-acirw5cknq6in7c8/S3cinr4-j5aekq6e7c8, 27, 27, 94, 2bo2$obo2bo$4bo$3bo$2bo!
@@ -2812,6 +2816,7 @@
 3, B2ikn3aciry4iknqtw5-aikq6en7c/S01e2aen3-aekq4ceikty5-ck6e7e, 3, 3, 141, obo$o!
 3, B2-ae3aikr4jkr5-cjny6-i7c/S02-ak3-ejqy4-eqty5cn6i8, 2, 2, 141, 2bo2$obo!
 3, B2-ae3aikry4ijkrz5-cjnr6-ik7c8/S02-ak3-jqy4-enqty5cnr6eik7e8, 1, 1, 141, 2bo2$obo!
+4, B2acn3cey4enq5cjkr6n/S12-ei3cy4iknty5aen, 71, 71, 142, 3bo$2bo$obo!
 6, B2k3acijr4eijqty7/S2aek3ijnqr4i5a6a, 36, 36, 142, bo$2bo$2bo$3o!
 6, B2n3-cnqy4z5ery6in7c8/S2-c3-ak4einrtz5er6ac7c, 35, 35, 142, b2o$2bo$3o!
 6, B3aeijr4jz5c6c7c/S2-c3-ack4einrtz5cejr6-ek7, 34, 34, 142, 3o$2bo$b2o!

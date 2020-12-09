@@ -6,11 +6,14 @@
 
 import itertools
 import math
-from string import replace
 import golly as g
 
-# Avoid xrange argument overflowing type C long
-xrange = lambda stop: iter(itertools.count().next, stop)
+try:
+    # Avoid xrange argument overflowing type C long on Python2
+    if xrange(1):
+        xrange = lambda stop: iter(itertools.count().next, stop)
+except NameError:
+    xrange = range
 
 # Interpret a pattern in sss format
 # Return a tuple with corresponding fields
@@ -127,7 +130,7 @@ def testShip(rlepatt, rule, maxgen = 2000):
 
 # Return the minimum and maximum of the absolute value of a list of numbers
 def minmaxofabs(v):
-    v = map(abs, v)
+    v = [abs(x) for x in v]
     return min(v), max(v)
 
 # Define a sign function
@@ -289,13 +292,13 @@ def rulestringopt(a):
                 result += i
         else:
             result += i
-    result = replace(result, '4aceijknqrtwyz', '4')
-    result = replace(result, '3aceijknqry', '3')
-    result = replace(result, '5aceijknqry', '5')
-    result = replace(result, '2aceikn', '2')
-    result = replace(result, '6aceikn', '6')
-    result = replace(result, '1ce', '1')
-    result = replace(result, '7ce', '7')
+    result = result.replace('4aceijknqrtwyz', '4')
+    result = result.replace('3aceijknqry', '3')
+    result = result.replace('5aceijknqry', '5')
+    result = result.replace('2aceikn', '2')
+    result = result.replace('6aceikn', '6')
+    result = result.replace('1ce', '1')
+    result = result.replace('7ce', '7')
     return result
 
 def getRuleRangeElems(period, ruleRange = 'minmax'):

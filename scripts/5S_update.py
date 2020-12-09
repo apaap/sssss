@@ -12,7 +12,6 @@ import os
 import itertools
 import timeit
 import sss
-reload(sss)
 
 timer = timeit.default_timer
 

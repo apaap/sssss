@@ -26,11 +26,12 @@
 #       search so that it can be resumed (repeating the same search without
 #       changing the seed will search the same rules)
 
+from __future__ import division
+
 import time
 import timeit
 import golly as g
 import sss
-reload(sss)
 
 timer = timeit.default_timer
 
@@ -56,9 +57,9 @@ bOsc = False
 # Output file
 resultsFile = 'matchPatt2-test.txt'
 # Only record ships with unique speed? (or smaller than previously found)
-bUniqueSpeeds = True
+bUniqueSpeeds = True # True
 # Import 5S project into known speeds?
-bImport5S = True
+bImport5S = True # True
 # Special case speeds to ignore (useful when bUniqueSpeeds = False)
 ignoreResults = [] # A list of the form: [(dx, dy, P)]
 

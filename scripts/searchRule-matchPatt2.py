@@ -288,7 +288,7 @@ try:
 except IOError:
     g.note('Failed to open results file %s for writing!' % resultsFile)
     raise
-except Exception, e:
+except Exception as e:
     raise
 finally:
     g.new('Search result')

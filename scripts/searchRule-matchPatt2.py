@@ -34,6 +34,7 @@ import golly as g
 import sss
 
 timer = timeit.default_timer
+xrange = sss.xrange
 
 # Search parameters
 
